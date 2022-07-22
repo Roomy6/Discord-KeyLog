@@ -18,6 +18,7 @@ Install packages
 
 ```bash
     pip install dhooks
+    pip install pynput
 ```
 
 Start the project
