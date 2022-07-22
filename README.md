@@ -27,3 +27,5 @@ Start the project
   python main.py
 ```
 
+YouTube Video:
+https://www.youtube.com/watch?v=SRaW1xWDmOw&t
