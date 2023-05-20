@@ -1,9 +1,7 @@
 
 # Discord Webhook Key Logger
 
- I have made this pureley because I was bored and wanted to share something with you.
-
- This is just a simple Keylogger with a discord Webhook
+Just a simple Keylogger with a discord Webhook
 ## How To Run
 
 Clone the project
